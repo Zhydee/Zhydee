@@ -4,9 +4,6 @@
 
 - <b>Active Directory</b>
   - [Active Directory Basic](https://github.com/Zhydee/Active_Directory_Basic)
-  - <b>Ethical Hacking</b>
-  - [Reconnaissance](https://github.com/Zhydee/ethical-hacking-recon)
-  <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -21,7 +18,6 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Data structures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 <h2> 📃 Certification</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)

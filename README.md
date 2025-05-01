@@ -4,6 +4,9 @@
 
 - <b>Active Directory</b>
   - [Active Directory Basic](https://github.com/Zhydee/Active_Directory_Basic)
+  - <b>Ethical Hacking</b>
+  - [Reconnaissance](https://github.com/Zhydee/ethical-hacking-recon)
+  <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -11,6 +14,7 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 - <b>Ethical Hacking</b>
   - [Reconnaissance](https://github.com/Zhydee/ethical-hacking-recon)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)

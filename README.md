@@ -4,6 +4,8 @@
 
 - <b>Active Directory</b>
   - [Active Directory Basic](https://github.com/Zhydee/Active_Directory_Basic)
+- <b>Wireshark Projects</b>
+  - [Analyzing HTTP Traffic with Wireshark](https://github.com/Zhydee/Active_Directory_Basic)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>

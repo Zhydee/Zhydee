@@ -15,8 +15,6 @@
 ### ⚔️ Ethical Hacking
 - [Reconnaissance](https://github.com/Zhydee/ethical-hacking-recon)
 
-### 🐍 Python Demos
-- [Package Delivery Pathfinding Algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) *(not your repo—rename or fork if using)*
 
 ### 🎓 Final Year Project
 - [Data Leakage Monitoring System](https://github.com/Zhydee/data-leakage-monitoring-system)

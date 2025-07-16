@@ -4,9 +4,11 @@
 
 - <b>Active Directory</b>
   - [Active Directory Basic](https://github.com/Zhydee/Active_Directory_Basic)
+
 - <b>Wireshark Projects</b>
   - [Analyzing HTTP Traffic with Wireshark](https://github.com/Zhydee/Analyzing-HTTP-Traffic-with-Wireshark)
   - [Detecting and Investigating Malware Traffic](https://github.com/Zhydee/Detecting-and-Investigating-Malware-Traffic)
+  - [Wireshark for Network Intrusion Detection](https://github.com/Zhydee/Wireshark-for-Network-Intrusion-detection/tree/master)
   
 - <b>Ethical Hacking</b>
   - [Reconnaissance](https://github.com/Zhydee/ethical-hacking-recon)

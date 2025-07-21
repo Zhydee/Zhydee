@@ -5,10 +5,10 @@
 ## 👨‍💻 Cybersecurity Projects
 
 ### 🧱 Active Directory
-- [Active Directory Basic](https://github.com/Zhydee/Splunk-Home-Lab)
+- [Active Directory Basic](https://github.com/Zhydee/Active_Directory_Basic)
   
 ### 📊 Splunk
-- [Splunk Basics](https://github.com/Zhydee/Active_Directory_Basic)
+- [Splunk Basics](https://github.com/Zhydee/Splunk-Home-Lab)
 
 ### 🕵️ Wireshark Projects
 - [Traffic Analysis Essentials(TryHackMe)](https://github.com/Zhydee/Traffic-Analysis-Essentials)

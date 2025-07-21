@@ -8,6 +8,7 @@
 - [Active Directory Basic](https://github.com/Zhydee/Active_Directory_Basic)
 
 ### 🕵️ Wireshark Projects
+- [Traffic Analysis Essentials(TryHackMe)](https://github.com/Zhydee/Traffic-Analysis-Essentials)
 - [Analyzing HTTP Traffic](https://github.com/Zhydee/Analyzing-HTTP-Traffic-with-Wireshark)
 - [Malware Traffic Investigation](https://github.com/Zhydee/Detecting-and-Investigating-Malware-Traffic)
 - [Network Intrusion Detection](https://github.com/Zhydee/Wireshark-for-Network-Intrusion-detection)

@@ -8,7 +8,7 @@
 - [Active Directory Basic](https://github.com/Zhydee/Active_Directory_Basic)
   
 ### 📊 Splunk
-- [Splunk Basics](https://github.com/Zhydee/Splunk-Home-Lab)
+- [Intro to Splunk](https://github.com/Zhydee/Intro-to-Splunk)
 
 ### 🕵️ Wireshark Projects
 - [Traffic Analysis Essentials(TryHackMe)](https://github.com/Zhydee/Traffic-Analysis-Essentials)

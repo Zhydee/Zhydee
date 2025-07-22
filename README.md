@@ -1,5 +1,5 @@
 # Hi, I'm Zaidi 👋  
-**Cybersecurity Final Year Student | Passionate About Threat Detection & Blue Teaming**
+**Cybersecurity Final Year Student | Passionate About SOC Analyst, Threat Detection & Blue Teaming**
 
 
 ## 👨‍💻 Cybersecurity Projects

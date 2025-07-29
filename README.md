@@ -6,6 +6,7 @@
 
 ### 🔬 Home Lab Experiments
 - [SSH Analysis with Splunk](https://github.com/Zhydee/SIEM-Home-Lab-SSH-Analysis-with-Splunk) – Simulated SSH log analysis using Splunk to detect failed logins, brute-force attempts, and suspicious IPs.
+- [HTTP Analysis with Splunk](https://github.com/Zhydee/SIEM-Home-Lab-HTTP-Analysis-with-Splunk) – Simulated HTTP log analysis using Splunk to detect suspicious endpoints, uncommon HTTP methods, automated tool usage and server errors.
 
 ### 🧱 Active Directory
 - [Active Directory Basic](https://github.com/Zhydee/Active_Directory_Basic) – Windows lab with users, groups, OUs, and GPOs for blue team learning.

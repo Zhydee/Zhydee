@@ -25,7 +25,7 @@
 
 
 ### 🎓 Final Year Project
-- [Data Leakage Monitoring System](https://github.com/Zhydee/data-leakage-monitoring-system) – 🛠 In Progress – Detects and monitors leaked personal data using OSINT tools like GitLeaks, TruffleHog, Sherlock, and LeakCheck API.
+- [Data Leakage Monitoring System](https://github.com/Zhydee/data-leakage-monitoring-system) – Detects and monitors leaked personal data using OSINT tools like GitLeaks, TruffleHog, Sherlock, and LeakCheck API.
 
 
 

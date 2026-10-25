@@ -1,10 +1,11 @@
 # Hi, I'm Zaidi 👋  
-**Cybersecurity Final Year Student | Passionate About SOC Analyst, Threat Detection & Blue Teaming**
+**Junior Security Analyst | SOC Operations, Threat Detection & Blue Teaming**
 
 
 ## 👨‍💻 Cybersecurity Projects
 
-### 🔬 Home Lab Experiments
+### 🔬 Home Lab
+- [Stellar Cyber Modular Sensor Lab](https://github.com/Zhydee/modular-sensor-lab) – Deployed a Stellar Cyber Modular Sensor in VirtualBox on Ubuntu inside VMware, with the IP plan, setup steps and the problems I fixed along the way.
 - [SSH Analysis with Splunk](https://github.com/Zhydee/SIEM-Home-Lab-SSH-Analysis-with-Splunk) – Simulated SSH log analysis using Splunk to detect failed logins, brute-force attempts, and suspicious IPs.
 - [HTTP Analysis with Splunk](https://github.com/Zhydee/SIEM-Home-Lab-HTTP-Analysis-with-Splunk) – Simulated HTTP log analysis using Splunk to detect suspicious endpoints, uncommon HTTP methods, automated tool usage and server errors.
 
